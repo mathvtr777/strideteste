@@ -1,0 +1,7 @@
+{
+  "name": "Stride - Active Run Tracker",
+  "description": "Premium mobile-first run tracking application with live GPS, analytics, and offline support.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
